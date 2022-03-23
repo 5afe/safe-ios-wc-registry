@@ -1,0 +1,1004 @@
+{
+    "1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369": {
+        "id": "1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369",
+        "name": "Rainbow",
+        "description": "",
+        "homepage": "https://rainbow.me/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "2cc2f20c-840b-497a-c028-dbb481d49700",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/2cc2f20c-840b-497a-c028-dbb481d49700/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/2cc2f20c-840b-497a-c028-dbb481d49700/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/2cc2f20c-840b-497a-c028-dbb481d49700/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/rainbow-ethereum-wallet/id1457119021",
+            "android": "",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "rainbow:",
+            "universal": "https://rnbwapp.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Rainbow",
+            "colors": {
+                "primary": "#001e59",
+                "secondary": ""
+            }
+        }
+    },
+    "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0": {
+        "id": "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0",
+        "name": "Trust Wallet",
+        "description": "",
+        "homepage": "https://trustwallet.com/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "0528ee7e-16d1-4089-21e3-bbfb41933100",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0528ee7e-16d1-4089-21e3-bbfb41933100/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0528ee7e-16d1-4089-21e3-bbfb41933100/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0528ee7e-16d1-4089-21e3-bbfb41933100/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/app/apple-store/id1288339409",
+            "android": "https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "trust:",
+            "universal": "https://link.trustwallet.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Trust",
+            "colors": {
+                "primary": "#3375bb",
+                "secondary": ""
+            }
+        }
+    },
+    "cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46": {
+        "id": "cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46",
+        "name": "Argent",
+        "description": "",
+        "homepage": "https://argent.xyz/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/argent/id1358741926",
+            "android": "https://play.google.com/store/apps/details?id=im.argent.contractwalletclient",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "argent://app",
+            "universal": "https://argent.link/app"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Argent",
+            "colors": {
+                "primary": "#ff875b",
+                "secondary": ""
+            }
+        }
+    },
+    "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96": {
+        "id": "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96",
+        "name": "MetaMask",
+        "description": "",
+        "homepage": "https://metamask.io/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "fb5269f0-1870-42d6-82b4-26d27626e800",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/fb5269f0-1870-42d6-82b4-26d27626e800/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/fb5269f0-1870-42d6-82b4-26d27626e800/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/fb5269f0-1870-42d6-82b4-26d27626e800/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/metamask/id1438144202",
+            "android": "https://play.google.com/store/apps/details?id=io.metamask",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "metamask:",
+            "universal": "https://metamask.app.link"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "MetaMask",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": ""
+            }
+        }
+    },
+    "9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2": {
+        "id": "9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2",
+        "name": "imToken",
+        "description": "",
+        "homepage": "https://token.im/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "1991f85d-43d4-4165-3502-cd6ef8312b00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1991f85d-43d4-4165-3502-cd6ef8312b00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1991f85d-43d4-4165-3502-cd6ef8312b00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1991f85d-43d4-4165-3502-cd6ef8312b00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://itunes.apple.com/us/app/imtoken2/id1384798940",
+            "android": "https://play.google.com/store/apps/details?id=im.token.app",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "imtokenv2:",
+            "universal": ""
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "imToken",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": ""
+            }
+        }
+    },
+    "19177a98252e07ddfc9af2083ba8e07ef627cb6103467ffebb3f8f4205fd7927": {
+        "id": "19177a98252e07ddfc9af2083ba8e07ef627cb6103467ffebb3f8f4205fd7927",
+        "name": "Ledger Live",
+        "description": "",
+        "homepage": "https://www.ledger.com/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "e8803581-a57f-4e4f-5a1b-c642c5da1900",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e8803581-a57f-4e4f-5a1b-c642c5da1900/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e8803581-a57f-4e4f-5a1b-c642c5da1900/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e8803581-a57f-4e4f-5a1b-c642c5da1900/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://itunes.apple.com/app/id1361671700",
+            "android": "https://play.google.com/store/apps/details?id=com.ledger.live",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "ledgerlive:",
+            "universal": ""
+        },
+        "desktop": {
+            "native": "ledgerlive:",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Ledger",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": ""
+            }
+        }
+    },
+    "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c": {
+        "id": "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c",
+        "name": "Pillar",
+        "description": "",
+        "homepage": "https://pillarproject.io/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/app/apple-store/id1346582238",
+            "android": "https://play.google.com/store/apps/details?id=com.pillarproject.wallet",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "pillarwallet:",
+            "universal": ""
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Pillar",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": ""
+            }
+        }
+    },
+    "2863183c3299d820fb9a4cb8aab4a34f50380c9992e8be871fd60a62e8d36481": {
+        "id": "2863183c3299d820fb9a4cb8aab4a34f50380c9992e8be871fd60a62e8d36481",
+        "name": "1inch Wallet",
+        "description": "",
+        "homepage": "https://1inch.io/wallet/",
+        "chains": [
+            "eip155:1",
+            "eip155:56"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "dce1ee99-403f-44a9-9f94-20de30616500",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dce1ee99-403f-44a9-9f94-20de30616500/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dce1ee99-403f-44a9-9f94-20de30616500/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dce1ee99-403f-44a9-9f94-20de30616500/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/1inch-defi-wallet/id1546049391",
+            "android": "",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "1inch:",
+            "universal": "https://wallet.1inch.io"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "1inch",
+            "colors": {
+                "primary": "#1f242e",
+                "secondary": ""
+            }
+        }
+    },
+    "19ad8334f0f034f4176a95722b5746b539b47b37ce17a5abde4755956d05d44c": {
+        "id": "19ad8334f0f034f4176a95722b5746b539b47b37ce17a5abde4755956d05d44c",
+        "name": "Aktionariat",
+        "description": "",
+        "homepage": "https://aktionariat.com/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "6d18e8ea-b536-4038-c5bf-94a499d5a400",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/6d18e8ea-b536-4038-c5bf-94a499d5a400/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/6d18e8ea-b536-4038-c5bf-94a499d5a400/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/6d18e8ea-b536-4038-c5bf-94a499d5a400/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/ch/app/aktionariat/id1518326813",
+            "android": "https://play.google.com/store/apps/details?id=com.aktionariat.app",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "aktionariat:",
+            "universal": "https://app.aktionariat.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Aktionariat",
+            "colors": {
+                "primary": "#000000",
+                "secondary": ""
+            }
+        }
+    },
+    "138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98": {
+        "id": "138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98",
+        "name": "AlphaWallet",
+        "description": "Ethereum, EVM wallet",
+        "homepage": "https://alphawallet.com/",
+        "chains": [
+            "eip155:1",
+            "eip155:3",
+            "eip155:4",
+            "eip155:5",
+            "eip155:10",
+            "eip155:42",
+            "eip155:56",
+            "eip155:61",
+            "eip155:69",
+            "eip155:77",
+            "eip155:97",
+            "eip155:99",
+            "eip155:100",
+            "eip155:137",
+            "eip155:200",
+            "eip155:256",
+            "eip155:338",
+            "eip155:4002",
+            "eip155:42161",
+            "eip155:43113",
+            "eip155:43114",
+            "eip155:11297108099",
+            "eip155:11297108109"
+        ],
+        "versions": [
+            "1",
+            "2"
+        ],
+        "app_type": "wallet",
+        "image_id": "1746957d-bbfd-45aa-0695-37f27b67c200",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1746957d-bbfd-45aa-0695-37f27b67c200/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1746957d-bbfd-45aa-0695-37f27b67c200/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1746957d-bbfd-45aa-0695-37f27b67c200/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/alphawallet-eth-wallet/id1358230430",
+            "android": "https://play.google.com/store/apps/details?id=io.stormbird.wallet",
+            "mac": null,
+            "windows": null,
+            "linux": null
+        },
+        "mobile": {
+            "native": "awallet:",
+            "universal": "https://aw.app"
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "metadata": {
+            "shortName": "AlphaWallet",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": null
+            }
+        }
+    },
+    "881946407ff22a32ec0e42b2cd31ea5dab52242dc3648d777b511a0440d59efb": {
+        "id": "881946407ff22a32ec0e42b2cd31ea5dab52242dc3648d777b511a0440d59efb",
+        "name": "Bridge Wallet",
+        "description": "",
+        "homepage": "https://mtpelerin.com/bridge-wallet",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "989d504f-93db-4ca6-c00a-9d1faf177d00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/989d504f-93db-4ca6-c00a-9d1faf177d00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/989d504f-93db-4ca6-c00a-9d1faf177d00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/989d504f-93db-4ca6-c00a-9d1faf177d00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/bridge-wallet/id1481859680",
+            "android": "https://play.google.com/store/apps/details?id=com.mtpelerin.bridge",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "bridgewallet:",
+            "universal": "https://bridge.mtpelerin.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Bridge",
+            "colors": {
+                "primary": "",
+                "secondary": ""
+            }
+        }
+    },
+    "a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5": {
+        "id": "a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5",
+        "name": "CYBAVO Wallet",
+        "description": "",
+        "homepage": "https://cybavo.com/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "3117d3ce-b973-4cfd-8fb5-f5d72ed3c200",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/3117d3ce-b973-4cfd-8fb5-f5d72ed3c200/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/3117d3ce-b973-4cfd-8fb5-f5d72ed3c200/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/3117d3ce-b973-4cfd-8fb5-f5d72ed3c200/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/tw/app/cybavo-wallet/id1510697681",
+            "android": "https://play.google.com/store/apps/details?id=com.cybavo.btc.wallet",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "cybavowallet:",
+            "universal": "https://cdn.cybavo.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "CYBAVO",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": ""
+            }
+        }
+    },
+    "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63": {
+        "id": "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63",
+        "name": "D'CENT Wallet",
+        "description": "",
+        "homepage": "https://dcentwallet.com",
+        "chains": [
+            "eip155:1",
+            "eip155:56",
+            "eip155:137",
+            "eip155:30"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "1efb49ec-2bab-4fa1-f2f2-4392c64ed000",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1efb49ec-2bab-4fa1-f2f2-4392c64ed000/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1efb49ec-2bab-4fa1-f2f2-4392c64ed000/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/1efb49ec-2bab-4fa1-f2f2-4392c64ed000/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/app/dcent-hardware-wallet/id1447206611",
+            "android": "https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "dcent:",
+            "universal": "https://link.dcentwallet.com"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "D'CENT",
+            "colors": {
+                "primary": "#fff",
+                "secondary": "#fff"
+            }
+        }
+    },
+    "416a17a68726c10896a46e9ecbb25eaa0e342611b2387d4787902bf1984b68e9": {
+        "id": "416a17a68726c10896a46e9ecbb25eaa0e342611b2387d4787902bf1984b68e9",
+        "name": "DID Wallet",
+        "description": "",
+        "homepage": "https://abtwallet.io/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "673b7f3b-a555-4327-f9b7-fefa535bc500",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/673b7f3b-a555-4327-f9b7-fefa535bc500/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/673b7f3b-a555-4327-f9b7-fefa535bc500/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/673b7f3b-a555-4327-f9b7-fefa535bc500/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://itunes.apple.com/app/id1460083542",
+            "android": "https://play.google.com/store/apps/details?id=com.arcblock.wallet.app.product",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "abt:",
+            "universal": ""
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "DID",
+            "colors": {
+                "primary": "#4598FA",
+                "secondary": "#53A8F4"
+            }
+        }
+    },
+    "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0": {
+        "id": "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0",
+        "name": "Elastos Essentials",
+        "description": "Your Web3 Crypto and W3C Identity wallet",
+        "homepage": "https://elastos.org",
+        "chains": [
+            "eip155:20",
+            "eip155:21",
+            "eip155:1",
+            "eip155:3",
+            "eip155:22",
+            "eip155:23",
+            "eip155:40",
+            "eip155:41",
+            "eip155:56",
+            "eip155:97",
+            "eip155:128",
+            "eip155:137",
+            "eip155:42161",
+            "eip155:43114",
+            "eip155:43113",
+            "eip155:250",
+            "eip155:4002",
+            "eip155:32659"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "04a6bfed-d80e-4f7b-0516-261f86aa4000",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/04a6bfed-d80e-4f7b-0516-261f86aa4000/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/04a6bfed-d80e-4f7b-0516-261f86aa4000/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/04a6bfed-d80e-4f7b-0516-261f86aa4000/lg"
+        },
+        "app": {
+            "browser": null,
+            "ios": "https://apps.apple.com/us/app/elastos-essentials/id1568931743",
+            "android": "https://play.google.com/store/apps/details?id=org.elastos.essentials.app",
+            "mac": null,
+            "windows": null,
+            "linux": null
+        },
+        "mobile": {
+            "native": "essentials:",
+            "universal": "https://essentials.elastos.net"
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "metadata": {
+            "shortName": "Essentials",
+            "colors": {
+                "primary": "#000000",
+                "secondary": "#ffffff"
+            }
+        }
+    },
+    "15d1d97de89526a3c259a235304a7c510c40cda3331f0f8433da860ecc528bef": {
+        "id": "15d1d97de89526a3c259a235304a7c510c40cda3331f0f8433da860ecc528bef",
+        "name": "Ellipal",
+        "description": "",
+        "homepage": "https://ellipal.com/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "0a805e10-bfc0-4d02-d9c1-8cec88f0dc00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0a805e10-bfc0-4d02-d9c1-8cec88f0dc00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0a805e10-bfc0-4d02-d9c1-8cec88f0dc00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/0a805e10-bfc0-4d02-d9c1-8cec88f0dc00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/ellipal/id1426179665",
+            "android": "https://play.google.com/store/apps/details?id=com.ellipal.wallet",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "ellipal:",
+            "universal": "https://www.ellipal.com/"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Ellipal",
+            "colors": {
+                "primary": "#307cf9",
+                "secondary": ""
+            }
+        }
+    },
+    "47bb07617af518642f3413a201ec5859faa63acb1dd175ca95085d35d38afb83": {
+        "id": "47bb07617af518642f3413a201ec5859faa63acb1dd175ca95085d35d38afb83",
+        "name": "KEYRING PRO",
+        "description": "KEYRING PRO brings possibilities to reality by offering a simple cross-chain environment, where user can experience multiple chains at once.",
+        "homepage": "https://keyring.app/",
+        "chains": [
+            "eip155:61",
+            "eip155:42",
+            "eip155:88",
+            "eip155:250",
+            "eip155:4002",
+            "eip155:137",
+            "eip155:80001",
+            "eip155:10",
+            "eip155:69",
+            "eip155:42161",
+            "eip155:421611",
+            "eip155:56",
+            "eip155:97",
+            "eip155:128",
+            "eip155:256",
+            "eip155:1666600000",
+            "eip155:1666600001",
+            "eip155:43114",
+            "eip155:43113"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "dda0f0fb-34e8-4a57-dcea-b008e7d1ff00",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dda0f0fb-34e8-4a57-dcea-b008e7d1ff00/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dda0f0fb-34e8-4a57-dcea-b008e7d1ff00/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/dda0f0fb-34e8-4a57-dcea-b008e7d1ff00/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": null,
+            "android": null,
+            "mac": "https://keyring.app/",
+            "windows": "https://keyring.app/",
+            "linux": "https://keyring.app/"
+        },
+        "mobile": {
+            "native": null,
+            "universal": null
+        },
+        "desktop": {
+            "native": "keyring://",
+            "universal": "https://keyring.app/"
+        },
+        "metadata": {
+            "shortName": "KEYRING PRO",
+            "colors": {
+                "primary": "#00D2C9",
+                "secondary": "#FFAA55"
+            }
+        }
+    },
+    "7902b32d857b8e1a58a6aab7129b56b40320bdb1c4854d5f2bd0b361f7e76d10": {
+        "id": "7902b32d857b8e1a58a6aab7129b56b40320bdb1c4854d5f2bd0b361f7e76d10",
+        "name": "LZ Wallet",
+        "description": "The ideal wallet for storing and trading your digital assets securely and conveniently.",
+        "homepage": "https://lz.finance/home",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "e3272444-3876-49d3-2f84-004b818d3800",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e3272444-3876-49d3-2f84-004b818d3800/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e3272444-3876-49d3-2f84-004b818d3800/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/e3272444-3876-49d3-2f84-004b818d3800/lg"
+        },
+        "app": {
+            "browser": null,
+            "ios": "https://apps.apple.com/app/lz-wallet/id1581578160",
+            "android": "https://play.google.com/store/apps/details?id=com.launchzone.lzwallet",
+            "mac": null,
+            "windows": null,
+            "linux": null
+        },
+        "mobile": {
+            "native": null,
+            "universal": null
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "metadata": {
+            "shortName": "LZ Wallet",
+            "colors": {
+                "primary": null,
+                "secondary": null
+            }
+        }
+    },
+    "7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26": {
+        "id": "7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26",
+        "name": "MathWallet",
+        "description": "",
+        "homepage": "https://mathwallet.org/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "26a8f588-3231-4411-60ce-5bb6b805a700",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/26a8f588-3231-4411-60ce-5bb6b805a700/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/26a8f588-3231-4411-60ce-5bb6b805a700/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/26a8f588-3231-4411-60ce-5bb6b805a700/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/us/app/math-wallet-blockchain-wallet/id1383637331",
+            "android": "https://play.google.com/store/apps/details?id=com.medishares.android",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "mathwallet:",
+            "universal": "https://www.mathwallet.org"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "MathWallet",
+            "colors": {
+                "primary": "",
+                "secondary": ""
+            }
+        }
+    },
+    "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f": {
+        "id": "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f",
+        "name": "Stasis",
+        "description": "",
+        "homepage": "https://stasis.net/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "app_type": "wallet",
+        "image_id": "7ae753bc-a754-450c-2d90-2c5521734400",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/7ae753bc-a754-450c-2d90-2c5521734400/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/7ae753bc-a754-450c-2d90-2c5521734400/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/7ae753bc-a754-450c-2d90-2c5521734400/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/app/stasis-wallet/id1371949230",
+            "android": "https://play.google.com/store/apps/details?id=com.stasis.stasiswallet&hl=ru&gl=US",
+            "mac": "",
+            "windows": "",
+            "linux": ""
+        },
+        "mobile": {
+            "native": "stasis:",
+            "universal": "https://app.stasis.net"
+        },
+        "desktop": {
+            "native": "",
+            "universal": ""
+        },
+        "metadata": {
+            "shortName": "Stasis",
+            "colors": {
+                "primary": "#2468E4",
+                "secondary": "#FFFFFF"
+            }
+        }
+    },
+    "afbd95522f4041c71dd4f1a065f971fd32372865b416f95a0b1db759ae33f2a7": {
+        "id": "afbd95522f4041c71dd4f1a065f971fd32372865b416f95a0b1db759ae33f2a7",
+        "name": "Steakwallet",
+        "description": "Multi chain, self custodial DeFi wallet",
+        "homepage": "https://steakwallet.fi",
+        "chains": [
+            "cosmos:cosmoshub-4",
+            "cosmos:kava-4",
+            "cosmos:columbus-4",
+            "eip155:1",
+            "eip155:10",
+            "eip155:56",
+            "eip155:100",
+            "eip155:137",
+            "eip155:1284",
+            "eip155:1285",
+            "eip155:42161",
+            "eip155:42220",
+            "eip155:43114",
+            "eip155:1666600000"
+        ],
+        "versions": [
+            "1",
+            "2"
+        ],
+        "app_type": "wallet",
+        "image_id": "700457dc-d772-46f3-7332-8c80a3dcb800",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/700457dc-d772-46f3-7332-8c80a3dcb800/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/700457dc-d772-46f3-7332-8c80a3dcb800/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/700457dc-d772-46f3-7332-8c80a3dcb800/lg"
+        },
+        "app": {
+            "browser": "",
+            "ios": "https://apps.apple.com/de/app/steakwallet/id1569375204?l=en",
+            "android": "https://play.google.com/store/apps/details?id=fi.steakwallet.app",
+            "mac": null,
+            "windows": null,
+            "linux": null
+        },
+        "mobile": {
+            "native": "steakwallet",
+            "universal": "https://links.steakwallet.fi"
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "metadata": {
+            "shortName": "Steakwallet",
+            "colors": {
+                "primary": "#FF3B9A",
+                "secondary": "#000000"
+            }
+        }
+    },
+    "7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd": {
+        "id": "7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd",
+        "name": "Unstoppable Wallet",
+        "description": null,
+        "homepage": "https://unstoppable.money/",
+        "chains": [
+            "eip155:1",
+            "eip155:56"
+        ],
+        "versions": [
+            "1",
+            "2"
+        ],
+        "app_type": "wallet",
+        "image_id": "5c38b22c-adb9-4899-3252-6e3d71458500",
+        "image_url": {
+            "sm": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5c38b22c-adb9-4899-3252-6e3d71458500/sm",
+            "md": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5c38b22c-adb9-4899-3252-6e3d71458500/md",
+            "lg": "https://imagedelivery.net/_aTEfDRm7z3tKgu9JhfeKA/5c38b22c-adb9-4899-3252-6e3d71458500/lg"
+        },
+        "app": {
+            "browser": null,
+            "ios": "https://apps.apple.com/app/apple-store/id1447619907",
+            "android": "https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet",
+            "mac": null,
+            "windows": null,
+            "linux": null
+        },
+        "mobile": {
+            "native": "moneyunstoppable:",
+            "universal": "https://unstoppable.money"
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "metadata": {
+            "shortName": "Unstoppable",
+            "colors": {
+                "primary": "#FFBE43",
+                "secondary": null
+            }
+        }
+    }
+}
