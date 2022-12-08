@@ -293,6 +293,57 @@
             }
         }
     },
+    "ecc4036f814562b41a5268adc86270fba1365471402006302e70169465b7ac18": {
+      "id": "ecc4036f814562b41a5268adc86270fba1365471402006302e70169465b7ac18",
+      "name": "Zerion",
+      "description": "Smart Web3 Wallet",
+      "homepage": "https://zerion.io/",
+      "chains": [
+        "eip155:1",
+        "eip155:200",
+        "eip155:137",
+        "eip155:43114",
+        "eip155:56",
+        "eip155:100",
+        "eip155:10",
+        "eip155:1313161554",
+        "eip155:250"
+      ],
+      "versions": [
+        "1",
+        "2"
+      ],
+      "app_type": "wallet",
+      "image_id": "f216b371-96cf-409a-9d88-296392b85800",
+      "image_url": {
+        "sm": "https://registry.walletconnect.com/v2/logo/sm/f216b371-96cf-409a-9d88-296392b85800",
+        "md": "https://registry.walletconnect.com/v2/logo/md/f216b371-96cf-409a-9d88-296392b85800",
+        "lg": "https://registry.walletconnect.com/v2/logo/lg/f216b371-96cf-409a-9d88-296392b85800"
+      },
+      "app": {
+        "browser": "https://app.zerion.io",
+        "ios": "https://apps.apple.com/app/id1456732565",
+        "android": "https://play.google.com/store/apps/details?id=io.zerion.android&hl=en&gl=US",
+        "mac": "https://apps.apple.com/app/id1456732565",
+        "windows": "",
+        "linux": ""
+      },
+      "mobile": {
+        "native": "zerion://",
+        "universal": "https://wallet.zerion.io"
+      },
+      "desktop": {
+        "native": "zerion://",
+        "universal": "https://wallet.zerion.io"
+      },
+      "metadata": {
+        "shortName": "Zerion",
+        "colors": {
+          "primary": "",
+          "secondary": "#2962ef"
+        }
+      }
+    },
     "2863183c3299d820fb9a4cb8aab4a34f50380c9992e8be871fd60a62e8d36481": {
         "id": "2863183c3299d820fb9a4cb8aab4a34f50380c9992e8be871fd60a62e8d36481",
         "name": "1inch Wallet",
