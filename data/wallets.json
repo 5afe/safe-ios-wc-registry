@@ -316,9 +316,9 @@
       "app_type": "wallet",
       "image_id": "f216b371-96cf-409a-9d88-296392b85800",
       "image_url": {
-        "sm": "https://registry.walletconnect.com/v2/logo/sm/f216b371-96cf-409a-9d88-296392b85800",
-        "md": "https://registry.walletconnect.com/v2/logo/md/f216b371-96cf-409a-9d88-296392b85800",
-        "lg": "https://registry.walletconnect.com/v2/logo/lg/f216b371-96cf-409a-9d88-296392b85800"
+        "sm": "https://registry.walletconnect.com/v2/logo/sm/73f6f52f-7862-49e7-bb85-ba93ab72cc00?projectId=2f05ae7f1116030fde2d36508f472bfb",
+        "md": "https://registry.walletconnect.com/v2/logo/md/73f6f52f-7862-49e7-bb85-ba93ab72cc00?projectId=2f05ae7f1116030fde2d36508f472bfb",
+        "lg": "https://registry.walletconnect.com/v2/logo/lg/73f6f52f-7862-49e7-bb85-ba93ab72cc00?projectId=2f05ae7f1116030fde2d36508f472bfb"
       },
       "app": {
         "browser": "https://app.zerion.io",
