@@ -752,7 +752,7 @@
         },
         "mobile": {
             "native": "ellipal:",
-            "universal": "https://www.ellipal.com/"
+            "universal": ""
         },
         "desktop": {
             "native": "",
